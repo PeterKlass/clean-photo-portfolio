@@ -68,7 +68,7 @@ bash
 npm install
 
 ### 3. Entwicklungsserver starten:
-bash
+markdown
 npm start
 
 ### 4. Öffne die App in deinem Browser unter:
