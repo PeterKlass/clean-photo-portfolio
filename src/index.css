@@ -4,15 +4,24 @@
 
 @layer base {
   body {
-    @apply overflow-hidden text-primary font-secondary bg-white;
+    @apply overflow-hidden text-primary font-primary bg-white; /* Standard auf Playfair Display */
   }
   .h1 {
-    @apply text-[54px] lg:text-[108px] font-primary font-bold capitalize leading-[120%] tracking-[-0.05em] mb-2;
+    @apply text-[54px] lg:text-[108px] font-bold capitalize leading-[120%] tracking-[-0.025em] mb-2;
+    font-family: 'Sen', sans-serif; /* Spezifik für Sen */
+    font-weight: 700;
+  }
+  p {
+    font-family: 'Playfair Display', serif; /* Fließtext */
+  }
+  .claim {
+    font-family: 'Mulish', sans-serif; /* Claim */
   }
   .section {
     @apply h-screen w-screen;
   }
   .btn {
-    @apply py-[18px] px-[50px] h-[66px] flex items-center justify-center text-base uppercase font-secondary font-semibold bg-primary text-white;
+    @apply py-[18px] px-[50px] h-[66px] uppercase flex items-center justify-center font-semibold bg-primary text-white;
+    font-family: 'Sen', sans-serif; /* Mulish */
   }
 }
