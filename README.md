@@ -60,7 +60,7 @@ Ein Einblick in das moderne Portfolio-Design.
 ## ⚙️ Installation und Verwendung
 ### 1. Repository klonen:
 bash
-git clone https://github.com/dein-github-benutzername/clean-photo-portfolio.git
+git clone https://github.com/PeterKlass/clean-photo-portfolio.git
 cd clean-photo-portfolio
 
 ### 2. Abhängigkeiten installieren:
