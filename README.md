@@ -38,24 +38,21 @@ Dieses Projekt ist ein modernes und minimalistisches **Fotografie-Portfolio**, d
 ```
 
 ## 🚀 Technologien
-React: Frontend-Bibliothek für UI-Komponenten.
-React Router DOM: Navigation und Routing.
-Framer Motion: Animations-Framework für Seitenübergänge und Elemente.
-TailwindCSS: Utility-First CSS-Framework für schnelle und einfache Gestaltung.
-Formspree: API für das Senden von Kontaktformularen.
-React Icons: Für Social-Media-Icons und Navigationselemente.
+- React: Frontend-Bibliothek für UI-Komponenten.
+- React Router DOM: Navigation und Routing.
+- Framer Motion: Animations-Framework für Seitenübergänge und Elemente.
+- TailwindCSS: Utility-First CSS-Framework für schnelle und einfache Gestaltung.
+- Formspree: API für das Senden von Kontaktformularen.
+- React Icons: Für Social-Media-Icons und Navigationselemente.
 
 ## 📝 Lernpunkte
 Während der Entwicklung dieses Projekts habe ich folgende Technologien und Konzepte vertieft:
 
-Seitenübergänge mit Framer Motion und React Router.
-Erstellung eines benutzerdefinierten Cursors mit Kontext-API und Animationslogik.
-Responsive Layouts mit TailwindCSS und flexiblen CSS-Klassen.
-Formularvalidierung und -integration mit Formspree.
-Projektstrukturierung und Komponentenhierarchie in React.
-📷 Vorschau
-
-Ein Einblick in das moderne Portfolio-Design.
+- Seitenübergänge mit Framer Motion und React Router.
+- Erstellung eines benutzerdefinierten Cursors mit Kontext-API und Animationslogik.
+- Responsive Layouts mit TailwindCSS und flexiblen CSS-Klassen.
+- Formularvalidierung und -integration mit Formspree.
+- Projektstrukturierung und Komponentenhierarchie in React.
 
 ## ⚙️ Installation und Verwendung
 ### 1. Repository klonen:
