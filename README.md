@@ -59,24 +59,30 @@ Ein Einblick in das moderne Portfolio-Design.
 
 ## ⚙️ Installation und Verwendung
 ### 1. Repository klonen:
-bash
+```
 git clone https://github.com/PeterKlass/clean-photo-portfolio.git
 cd clean-photo-portfolio
+```
 
 ### 2. Abhängigkeiten installieren:
-bash
+```
 npm install
+```
 
 ### 3. Entwicklungsserver starten:
-markdown
+```
 npm start
+```
 
 ### 4. Öffne die App in deinem Browser unter:
+```
 http://localhost:3000
+```
 
 ### 5. Produktions-Build erstellen:
-bash
+```
 npm run build
+```
 
 ## 🖥️ Live-Demo
 Die Live-Version dieses Projekts ist hier verfügbar: https://clean-photo-portfolio.vercel.app/
