@@ -12,12 +12,12 @@ Dieses Projekt ist ein modernes und minimalistisches **Fotografie-Portfolio**, d
 ---
 
 ## 🌟 Features
-- 🚀 **Reibungslose Navigation** mit animierten Seitenübergängen (Framer Motion).
-- 🎨 **Benutzerdefinierter Cursor** für ein einzigartiges Erlebnis.
-- 📱 **Responsives Design**, optimiert für Desktop- und mobile Geräte.
-- 📂 **Portfolio-Galerie**, um Arbeiten in einem übersichtlichen Grid darzustellen.
-- ✉️ **Kontaktformular** mit Validierung und Integration (Formspree).
-- 🔗 **Social-Media-Verknüpfungen** (Instagram, E-Mail).
+- **Reibungslose Navigation** mit animierten Seitenübergängen (Framer Motion).
+- **Benutzerdefinierter Cursor** für ein einzigartiges Erlebnis.
+- **Responsives Design**, optimiert für Desktop- und mobile Geräte.
+- **Portfolio-Galerie**, um Arbeiten in einem übersichtlichen Grid darzustellen.
+- **Kontaktformular** mit Validierung und Integration (Formspree).
+- **Social-Media-Verknüpfungen** (Instagram, E-Mail).
 
 ---
 
